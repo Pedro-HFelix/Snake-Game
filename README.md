@@ -20,7 +20,7 @@ Este é um projeto de implementação do clássico jogo Snake (Cobrinha) usando 
 1. Faça o download dos arquivos deste projeto.
 2. Abra o arquivo `index.html` em um navegador web.
 3. O jogo Snake será carregado e você poderá começar a jogar.
-
+4. Ou vizualize em:<br> [https://app.netlify.com/sites/candid-brigadeiros-4dba13/overview](https://candid-brigadeiros-4dba13.netlify.app/)
 ## Projeto
 Esse é um desafio de projeto da DIO <br>
 https://web.dio.me/lab/recriando-o-jogo-da-cobrinha-com-javascript/learning/50e5994c-b1e8-47ad-869f-1dd7c538f8ed
