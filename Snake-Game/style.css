@@ -8,6 +8,7 @@ body{
 }
 canvas{
     margin-top: 50px;
+    border: solid 2px black;
 }
 #btnReiniciar{
     margin-top: 20px;
